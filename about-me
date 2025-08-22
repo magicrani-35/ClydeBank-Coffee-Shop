@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>About ClydeBank Coffee Shop</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="title-header">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.png" alt="Logo">
+                    <img src="images/coffee-cup-icon.png" alt="Logo">
+                </a>
+            </div>
+            <div class="title">ClydeBank Coffee Shop</div>
+        </div>
+    </div>
+</header>
+<nav>
+    <div class="container">
+        <ul>
+            <li class="active"><a href="index.html">Menu</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+<main>
+    <div class="container">
+<p>ClydeBank Coffee Shop welcomes you to our website. If you're in the area, we kindly ask you to stop by and have a cup with us.</p>
+    <p>We are located in the heart of Clydebank, offering a cozy atmosphere and a wide selection of coffee and pastries. Our team is dedicated to providing you with the best service and quality products.</p>
+    
+    <h2>Our Goals</h2>
+    <p>At ClydeBank Coffee Shop, our goal is to provide a welcoming environment where customers can enjoy high-quality coffee and delicious food. We strive to source our ingredients locally and sustainably, ensuring that every cup and plate is made with care.
+        We consider ourselves "coffee enthusiasts" and are passionate about sharing our love for coffee with our community. Whether you're looking for a quick caffeine fix or a place to relax and unwind, we have something for everyone.
+    
+    <p>It all started with my father back in 1985, who had a dream of opening a coffee shop that would bring people together. Over the years, we have grown and evolved, but our commitment to quality and community remains the same.
+    Now a days we have expanded our shop to include a variety of coffee blends, teas, and baked goods, all made with the finest ingredients. We also offer a selection of vegan and gluten-free options to cater to all dietary needs.
+    Included in our expansion is a cozy seating area where customers can relax and enjoy their drinks and a small internet corner. We believe that a coffee shop should be a community hub, and we strive to create a space that feels welcoming to all.</p>
+    <h2>Our Team</h2>
+    <p>Our team is made up of passionate individuals who are dedicated to providing the best coffee experience possible. From our skilled baristas to our friendly servers, everyone plays a vital role in making ClydeBank Coffee Shop a special place.</p>
+    <p>We are proud to have a diverse team that brings unique perspectives and talents to our shop. Each member of our team is trained to ensure that every cup of coffee is brewed to perfection, and we take pride in our ability to create a warm and inviting atmosphere for our customers.</p>
+    <h2>Our Customers</h2>
+    <p> We can't forget about our loyal customers who have supported us throughout the years. Your feedback and suggestions have helped us improve and grow, and we are grateful for your continued patronage.</p>
+    <p>Thank you for choosing ClydeBank Coffee Shop. We look forward to serving you!</p>
+    </div>
+</main>
+<footer>
+    <div class="container">
+        <h2 class="text-white">Contact</h2>
+        <address>
+            <ul>
+                <li>Address: 4578 Marmora Road,Glasgow D04 89GR</li>
+                <li>Phone:<a href="tel:#"> 800-2345-6789</a></li>
+                <li>Opening Hours: 6am-4pm PST M-Th; 6am-3pm PST Fri</li>
+                <li>E-mail:<a href="mailto:#"> info@demolink.org</a></li>
+            </ul>
+        </address>
+    </div>
+</footer>
+</body>
+</html>
